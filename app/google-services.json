@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "860348807536",
+    "project_id": "diplomcooksupport",
+    "storage_bucket": "diplomcooksupport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860348807536:android:05965c1a9337eac04db7b5",
+        "android_client_info": {
+          "package_name": "com.example.diplomcooksupport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860348807536-0mkl9098utjb5ilhs2gjdke6ul2813p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diplomcooksupport",
+            "certificate_hash": "259de2228e0484b99e1b91421651904cb5b27bba"
+          }
+        },
+        {
+          "client_id": "860348807536-mqp18vpi1ajnkkqu06mjvkvun30n1pis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpS5DnanlxsDl3W6pUJBX-54OG03spJ2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860348807536-mqp18vpi1ajnkkqu06mjvkvun30n1pis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
